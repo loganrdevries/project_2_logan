@@ -5,8 +5,12 @@ body {
   background-image: url("https://eventcty.com/wp-content/uploads/2015/03/green-grass.jpg");
 }
 h1 {
+  color: white;
+  text-align: center;
 font-family: 'Crafty Girls', cursive;
 }
  p {
+   color: white;
+   text-align: center;
    font-family: 'Crafty Girls', curvise;
  }
